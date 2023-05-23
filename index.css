@@ -1,0 +1,100 @@
+header {
+  background-color: #0538e1;
+  margin: 0 auto;
+  text-align: center;
+}
+header div ul {
+  background-color: whitesmoke;
+}
+.icon {
+  background-color: white;
+}
+.icon img {
+  margin-top: 10px;
+  width: 8rem;
+}
+.icon form {
+  margin-top: 10px;
+}
+.card {
+  border: none;
+}
+.color div p {
+  text-align: center;
+}
+.dd img {
+  width: 150px;
+}
+.button {
+  text-align: center;
+  margin-top: 20px;
+}
+.button button {
+  width: 300px;
+  height: 50px;
+  border-color: rgb(0, 179, 255);
+  color: rgb(0, 179, 255);
+  background-color: white;
+}
+.he img {
+  width: 420px;
+  height: 97px;
+}
+.li-body {
+  margin-top: 30px;
+}
+.li-body li {
+  display: block;
+}
+.li-body .col-2 img {
+  width: 4rem;
+}
+.li-body .col-6 img {
+  width: 9rem;
+}
+.img-body img {
+  width: 4rem;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+footer {
+  background-color: whitesmoke;
+}
+footer li {
+  display: block;
+}
+footer img {
+  width: 3rem;
+}
+.img-footer {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.dd th {
+  margin: 0;
+  padding: 0;
+}
+.dd .card {
+  margin: 0;
+  padding: 0 !important;
+  border: 1px solid black;
+}
+.dd .card img {
+  margin: 0;
+  padding: 0;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.btnbtn-outline-dark {
+  width: 200px;
+}
+.sl {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.sl button {
+  width: 300px;
+  text-align: left;
+}
